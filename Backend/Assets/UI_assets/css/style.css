@@ -1,0 +1,48 @@
+h6{
+    color:black!important;
+  }
+  .carousel-item{
+    height:500px;
+  }
+  section{
+  padding-top:60px;
+  /*height:600px;*/
+  }
+  .aboutus{
+    width:100%;
+  }
+  .bg-blue{
+    background-color: #89cff0;
+  }
+  .bg-yellow{
+    background-color: #fffdd0;
+  }
+  .br-20{
+    border-radius: 20px;
+  }
+  .bg-navy{
+    background-color: #00255f;
+    color:white;
+  }
+  .bg-grey{
+    background-color:#eeeeee;
+  }
+  .bg-cyan{
+    background-color: #d2fff3;
+  }
+  /*#slider-img{
+      height:400px;
+  }*/
+  .about-img{
+      height:500px;
+  }
+  
+  @media only screen and (max-width:426px){
+    section{
+      padding-bottom: 0px!important;
+    }
+    .carousel-item{
+      height:215px;
+  }
+  }
+  
